@@ -1,0 +1,14 @@
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\bin\Debug\net8.0-windows\AddressBook.exe
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\bin\Debug\net8.0-windows\AddressBook.deps.json
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\bin\Debug\net8.0-windows\AddressBook.runtimeconfig.json
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\bin\Debug\net8.0-windows\AddressBook.dll
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\bin\Debug\net8.0-windows\AddressBook.pdb
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\obj\Debug\net8.0-windows\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\obj\Debug\net8.0-windows\AddressBook.AssemblyInfoInputs.cache
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\obj\Debug\net8.0-windows\AddressBook.AssemblyInfo.cs
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\obj\Debug\net8.0-windows\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\obj\Debug\net8.0-windows\AddressBook.dll
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\obj\Debug\net8.0-windows\refint\AddressBook.dll
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\obj\Debug\net8.0-windows\AddressBook.pdb
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\obj\Debug\net8.0-windows\AddressBook.genruntimeconfig.cache
+C:\Users\hp spectre\Desktop\318 HW4\AddressBook\obj\Debug\net8.0-windows\ref\AddressBook.dll
