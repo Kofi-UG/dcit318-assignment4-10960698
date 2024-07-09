@@ -1,0 +1,14 @@
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\bin\Debug\net8.0-windows\LoginScreen.exe
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\bin\Debug\net8.0-windows\LoginScreen.deps.json
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\bin\Debug\net8.0-windows\LoginScreen.runtimeconfig.json
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\bin\Debug\net8.0-windows\LoginScreen.dll
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\bin\Debug\net8.0-windows\LoginScreen.pdb
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\obj\Debug\net8.0-windows\LoginScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\obj\Debug\net8.0-windows\LoginScreen.AssemblyInfoInputs.cache
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\obj\Debug\net8.0-windows\LoginScreen.AssemblyInfo.cs
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\obj\Debug\net8.0-windows\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\obj\Debug\net8.0-windows\LoginScreen.dll
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\obj\Debug\net8.0-windows\refint\LoginScreen.dll
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\obj\Debug\net8.0-windows\LoginScreen.pdb
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\obj\Debug\net8.0-windows\LoginScreen.genruntimeconfig.cache
+C:\Users\hp spectre\Desktop\318 HW4\LoginScreen\obj\Debug\net8.0-windows\ref\LoginScreen.dll
